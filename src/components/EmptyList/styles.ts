@@ -9,6 +9,8 @@ export const styles = StyleSheet.create({
     paddingBottom: 48,
     paddingLeft: 20,
     paddingRight: 20,
+    borderTopColor: '#808080',
+    borderTopWidth: 1,
   },
   image: {},
   text: {
